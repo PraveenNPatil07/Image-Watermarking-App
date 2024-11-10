@@ -39,7 +39,7 @@ A desktop application that enables users to add customizable watermarks to image
    `cd Image-Watermarking-App`
 
 3. Run the app:
-   `python app.py`
+   `python main.py`
 
 
 
